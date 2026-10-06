@@ -1,0 +1,128 @@
+*{
+  margin: 0;
+}
+body{ 
+background-image: url("/IMG/fondoop4.jpg");
+color: #0f0a0a;
+margin: 0;
+font-size: medium;
+ font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;}
+
+    p{
+      margin: 2px;
+    }
+
+h1{
+    color: #f6d9ff;
+    font-size: xx-large;
+    font-family: "Underdog", system-ui;
+  font-weight: 800;
+  font-style: normal;
+  text-align: center;
+}
+.colortitulo{
+  color: rgb(97, 66, 72);
+  background-color: #aa9c9c;
+  padding: 10px;
+}
+
+h2,h3,h4{
+    font-size: xx-large;
+color: #b8b0b0;
+    font-family: "Amarante", serif;
+  font-weight: 400;
+  font-style: normal;
+  text-align: center;
+}
+h2{
+    font-size: xx-large;
+color: #b8b0b0;
+    font-family: "Amarante", serif;
+  font-weight: 400;
+  font-style: normal;
+  text-align: center;
+}
+h3,h4{
+    font-size: medium;
+color: #555151;
+    font-family: "Amarante", serif;
+  font-weight: 400;
+  font-style: normal;
+  text-align: left;
+  padding: 80px;
+}
+nav{
+    color: #505050;
+    background-color: #b8b0b0; 
+    font-size: large;
+    font-family: "Underdog", system-ui;
+  font-weight: 400;
+  font-style: normal;
+  text-align: center;
+  a{
+    color: #504848;
+  }
+  padding: 10px;
+}
+
+main{
+    background-color: #aa9c9c;
+    margin: 20px 50px;
+  }
+
+    p{
+      padding: 0px 80px;
+    }
+
+    h3{
+      padding: 0px 80px;
+    }
+
+    .margen-titulo{
+        background-color: #504848;
+    }
+
+.portada{
+    padding: 0px;
+    margin: 0px;
+} 
+
+.fondopag{
+  background-color: #222024;
+  background-image: url(/IMG/fondopag.jpg);
+  background-size: cover;
+}
+
+.tituloportda{
+  margin-top: 20px;
+}
+
+footer{
+  background-color: #222024;
+}
+
+.tipofooter{
+  color: #faebd7;
+}
+
+.peli{
+  color: #0f0a0a;
+  font-family: "Amarante", serif;
+  font-weight: 400;
+  font-style: normal;
+  text-align: center;
+}
+
+.titulocontacto{
+  background-color: #222024;
+}
+
+.centrado{
+  display: flex;
+  justify-content: center;
+}
