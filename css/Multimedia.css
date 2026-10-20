@@ -3,34 +3,3 @@ aspect-ratio: 16/9;
 text-align: center;
 }
 
-nav{
-    color: #505050;
-    background-color: #b8b0b0; 
-    font-size: large;
-    font-family: "Underdog", system-ui;
-  font-weight: 400;
-  font-style: normal;
-  text-align: center;
-  a{
-    color: #504848;
-  }
-  padding: 10px;
-}
-
-h1{
-    color: #f6d9ff;
-    font-size: xx-large;
-    font-family: "Underdog", system-ui;
-  font-weight: 800;
-  font-style: normal;
-  text-align: center;
-}
-
-main{
-    background-color: #aa9c9c;
-    margin: 20px 50px;
-  }
-
-  footer{
-  background-color: #222024;
-}
