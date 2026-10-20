@@ -6,3 +6,8 @@ text-align: center;
 iframe{
     margin: 0 auto;
 }
+
+.centrado{
+    display: flex;
+    justify-content: center;
+}
