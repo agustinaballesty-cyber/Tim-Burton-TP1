@@ -17,3 +17,21 @@ body{
 fondo{
     background-color: black;
 }
+
+h1{
+    color: #f6d9ff;
+    font-size: xx-large;
+    font-family: "Underdog", system-ui;
+  font-weight: 800;
+  font-style: normal;
+  text-align: center;
+}
+.colortitulo{
+  color: #614248;
+  background-color: #aa9c9c;
+  padding: 10px;
+}
+
+fondotodo{
+    background-color: black;
+}
