@@ -104,7 +104,8 @@ main{
 
 footer{
   background-color: #222024;
-  display:flex
+  display:flex;
+  justify-content: space-evenly;
 }
 
 .tipofooter{
