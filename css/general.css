@@ -104,6 +104,7 @@ main{
 
 footer{
   background-color: #222024;
+  flex-direction: column;
 }
 
 .tipofooter{
